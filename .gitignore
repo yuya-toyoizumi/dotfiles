@@ -7,5 +7,7 @@
 /.config/fish/fish_variables
 !/.config/wezterm
 !/.config/wezterm/**
+!/.config/nvim
+!/.config/nvim/**
 
 !.gitignore
