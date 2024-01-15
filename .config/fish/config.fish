@@ -8,5 +8,6 @@ set -g theme_color_scheme nord
 fish_add_path /opt/homebrew/bin
 fish_add_path $HOME/.nodebrew/current/bin
 fish_add_path $HOME/.cargo/bin
+fish_add_path $HOME/fvm/default/bin
 
 abbr -a v "nvim"
