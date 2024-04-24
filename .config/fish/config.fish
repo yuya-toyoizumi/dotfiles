@@ -9,5 +9,7 @@ fish_add_path /opt/homebrew/bin
 fish_add_path $HOME/.nodebrew/current/bin
 fish_add_path $HOME/.cargo/bin
 fish_add_path $HOME/fvm/default/bin
+fish_add_path $HOME/.local/bin
+fish_add_path $HOME/.rbenv/shims
 
 abbr -a v "nvim"
