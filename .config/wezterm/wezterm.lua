@@ -1,7 +1,7 @@
 local wezterm = require 'wezterm'
 
 local config = {
-  default_prog = { "/opt/homebrew/bin/fish", "-l" },
+  default_prog = { "/usr/local/bin/fish", "-l" },
   window_decorations = 'RESIZE',
   window_background_opacity = 0.94,
   font_size = 14.0,
