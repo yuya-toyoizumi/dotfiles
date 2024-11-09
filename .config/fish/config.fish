@@ -13,3 +13,7 @@ fish_add_path $HOME/.local/bin
 fish_add_path $HOME/.rbenv/shims
 
 abbr -a v "nvim"
+
+if type -q mise
+  mise activate fish | source
+end

@@ -4,6 +4,8 @@
 !/.config/
 !/.config/fish
 !/.config/fish/**
+!/.config/mise
+!/.config/mise/**
 /.config/fish/fish_variables
 !/.config/wezterm
 !/.config/wezterm/**
