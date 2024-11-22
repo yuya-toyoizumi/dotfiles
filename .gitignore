@@ -11,6 +11,8 @@
 !/.config/wezterm/**
 !/.config/nvim
 !/.config/nvim/**
+!/.config/vscode
+!/.config/vscode/**
 !/Brewfile
 
 !.gitignore

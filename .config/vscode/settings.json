@@ -1,0 +1,23 @@
+{
+  "workbench": {
+    "colorTheme": "GitHub Dark Dimmed"
+  },
+
+  "files": {
+    "insertFinalNewline": true,
+    "trimFinalNewlines": true
+  },
+
+  "editor": {
+    "tabSize": 2,
+    "wordWrapColumn": 120
+  },
+
+  "terminal": {
+    "integrated": {
+      "defaultProfile": {
+        "osx": "fish"
+      }
+    }
+  }
+}
