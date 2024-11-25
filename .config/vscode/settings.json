@@ -3,6 +3,10 @@
     "colorTheme": "GitHub Dark Dimmed"
   },
 
+  "window": {
+    "commandCenter": false
+  },
+
   "files": {
     "insertFinalNewline": true,
     "trimFinalNewlines": true,
