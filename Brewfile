@@ -11,6 +11,7 @@ brew "ghq"
 brew "git"
 brew "mas"
 brew "mise"
+brew "xh"
 
 cask "google-chrome"
 cask "notion"
